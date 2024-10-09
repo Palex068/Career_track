@@ -58,15 +58,6 @@
 
 ## 2. Регистрация на Miro.com
 
-<iframe width="560" 
-        height="315"
-        src="../Miro/Videos/2_Регистрация_на_Miro_com_Stepik.mp4"
-        title="YouTube video player"
-        frameborder="0"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-        allowfullscreen>
-</iframe>
-
 [Video](../Miro/Videos/2_Регистрация_на_Miro_com_Stepik.mp4)
 
 Для работы на онлайн-доске Miro.com необходима регистрация преподавателя и студентов (учеников).
